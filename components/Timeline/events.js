@@ -4,8 +4,8 @@ const events = [
     redirect: "11",
     image:
       "https://images.prismic.io/ieeemuj/bf314cf8-b946-473c-95cd-2cc1477925ad_Ballistic+2.0.png?auto=compress,format",
-    title: "Ballistic 4.0",
-    desc: "Gaming competition between 2 teams. Games- Fifa 21 and Mortal Kombat",
+    title: "Breacout 4.0",
+    desc: "BREACOUT 4.0, a flagship event of GENESIS 3.0, stands as an exhilarating affair, promising an extraordinary Marvel-themed treasure hunt experience. Teams comprising four members each are invited to participate and explore the Marvel Universe through a series of cryptic clues and intricate riddles strategically placed across our campus.",
     s_desc: "Gaming competition between 2 teams. Games- Fifa 21 and Mortal Kombat",
     dates: "7th-8th October",
     time: "7pm to 9pm",
